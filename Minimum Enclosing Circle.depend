@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620258406 source:c:\users\90536\desktop\codeblocks programlarý\Önemsiz Çalýþmalar\minimum enclosing circle\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<math.h>
+
