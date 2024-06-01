@@ -21,10 +21,5 @@ Spline curves are a strip used to create a smooth curve around a series of point
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
-## Contact
-
-Twitter: [twitter.com/Buraakkyldrm](https://twitter.com/Buraakkyldrm)  
-Mail: burak.y190m@gmail.com  
-Project Link: [Minimum-Enclosing-Circle-B-Spline-Curves](https://github.com/burakYildirim1/Minimum-Enclosing-Circle-B-Spline-Curves)
 
 
